@@ -57,5 +57,5 @@ So you can just execute above after modifying your output name in `package.json`
 Command finds all bots in `/bots` folder and fights every bot with other bot 200 times and gives you the wins.
 Thus showcasing the leading bot currently.
 
-**To see the current bot rankings goto: https://sriramdazn.github.io/tank-bots/**
+**To see the current bot rankings goto: https://sriramdazn.github.io/tank-bots/#/dashboard**
 

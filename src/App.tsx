@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Match from "./Match"
 import Home from "./Home"
 
@@ -6,12 +6,12 @@ function App() {
 
   return (
       <div>
-          <BrowserRouter basename="/tank-bots/">
+          <Router >
               <Routes>
-                  <Route path="/" element={<Home />} />
-                  <Route path="/match/:id?" element={<Match />} />
+                  <Route path="/dashboard" element={<Home />} />
+                  <Route path="/:id?" element={<Match />} />
               </Routes>
-          </BrowserRouter>
+          </Router>
       </div>
   )
 }

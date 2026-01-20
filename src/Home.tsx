@@ -2,6 +2,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import matches from "./matches.json"
 import wins from "./wins.json"
 import {useState} from "react";
+import {Link} from "react-router-dom";
 
 type WinEntry = {
     name: string;
@@ -66,7 +67,7 @@ function Home() {
                         {matches.filter(match => (!filter || match.A === filter || match.B === filter)).map((match,i) => (
                             <tr>
                                 <td>{i}</td>
-                                <td><a href={`./match/${match.name}`} >{match.A} vs {match.B}</a></td>
+                                <td><Link to={`/${match.name}`} >{match.A} vs {match.B}</Link></td>
                                 <td>{match.winner === "A"? match.A : (match.winner === "B" ? match.B : "draw")}</td>
                             </tr>
                         ))}
