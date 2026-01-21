@@ -177,12 +177,15 @@ function Match() {
                 )))}
 
             </div>
-          <div>
+          <div className={"tools"}>
               <button className="btn btn-outline-dark disabled" >Round: {round}</button>
-              <button className={"btn btn-outline-dark " + (isPaused ? "":"disabled")} onClick={onPrevClick}>Previous</button>
+              <button className="btn btn-outline-danger disabled" >Red: A</button>
+              <button className={"btn btn-dark " + (isPaused ? "":"disabled")} onClick={onPrevClick}>Previous</button>
 
-              <button className="btn btn-outline-dark" onClick={onPauseClick}>{isPaused ? "Play": "Pause"}</button>
-              <button className={"btn btn-outline-dark " + (isPaused ? "":"disabled")} onClick={onNextClick}>Next</button>
+              <button className="btn btn-dark" onClick={onPauseClick}>{isPaused ? "Play": "Pause"}</button>
+              <button className={"btn btn-dark " + (isPaused ? "":"disabled")} onClick={onNextClick}>Next</button>
+              <button className="btn btn-outline-info disabled" >Blue: B</button>
+
           </div>
           {/*<div className="game-message" >{game.message}</div>*/}
       </div>

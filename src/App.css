@@ -1,11 +1,14 @@
+
 .arena {
-  margin: 0;
+  margin: 30px;
   font-size: 40px;
+  min-width:618px;
+
 }
 
 .arena .row {
     display: flex;
-  border: 1px solid black;
+  /*border: 1px solid black;*/
   border-collapse: collapse;
 }
 
@@ -16,11 +19,13 @@
   width: 80px;
   height: 80px;
   padding: 15px;
+  background: lightcoral;
+
 }
 
 .arena .cell .player{
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
   position: relative;
 }
 
@@ -33,22 +38,22 @@
 
 .arena .cell .player.left:after {
   left: -10px;
-  top: 15px;
+  top: 10px;
 }
 
 .arena .cell .player.right:after {
   right: -10px;
-  top: 15px;
+  top: 10px;
 }
 
 .arena .cell .player.up:after {
-  right: 15px;
-  top: -15px;
+  right: 10px;
+  top: -10px;
 }
 
 .arena .cell .player.down:after {
-  right: 15px;
-  bottom: -15px;
+  right: 10px;
+  bottom: -10px;
 }
 
 .arena .cell .player.playerA{
@@ -71,15 +76,17 @@
 
 .arena .diamond{
   background: gold;
-  width: 50px;
-  height: 50px;
+  width: 25px;
+  height: 25px;
+  margin: 10px;
   transform: rotate(45deg);
 }
 
 .arena .bullet{
   background: brown;
-  width: 50px;
-  height: 50px;
+  width: 25px;
+  height: 25px;
+  margin: 10px;
   border-radius: 100%;
   /*transform: rotate(45deg);*/
 }
@@ -95,3 +102,9 @@
 .arena .player.destroyed:after{
   background-color: black !important;
 }
+
+.tools{
+  /*display: flex;*/
+  text-align: center;
+}
+
