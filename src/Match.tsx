@@ -29,6 +29,7 @@ function Match() {
     const [gameData , setGameData] = useState<RoundDataType[]>();
     const [round, setRound] = useState(0);
     const [roundData, setRoundData] = useState<RoundDataType>();
+    const [isPaused, setIsPaused] = useState<boolean>(false);
 
     const timer = useRef<number>(0);
 
@@ -48,15 +49,15 @@ function Match() {
         })();
     }, [id]);
 
-    const playRound = useCallback(function(){
+    const playRound = useCallback(function(cround: number){
 
         if (!gameData) return;
 
-        if (round >= gameData.length){
+        if (cround >= gameData.length){
             clearInterval(timer.current);
             return;
         }
-        const data  = gameData[round];
+        const data  = gameData[cround];
 
         setRoundData({
             playerA: data.playerA,
@@ -65,27 +66,35 @@ function Match() {
             bullet: data.bullet,
         });
 
-    }, [gameData, round]);
+    }, [gameData]);
 
     useEffect(() => {
         if (!gameData || gameData.length <= 0) return;
-        console.log("gameData", gameData);
+        // console.log("gameData", gameData);
 
         if (round >= gameData.length){
             return;
         }
 
         timer.current = setInterval(function(){
-            playRound();
-            setRound((round) => round+1);
-            console.log("round", round);
+            if (isPaused){
+                clearInterval(timer.current);
+                return;
+            }
+
+            setRound((round) => {
+                playRound(round);
+                console.log("round", round);
+                return round +1;
+            });
+
 
         }, 1000)
 
         return () => {
             clearInterval(timer.current);
         }
-    }, [gameData, playRound, round]);
+    }, [gameData, playRound, round, isPaused]);
 
 
 
@@ -135,6 +144,23 @@ function Match() {
 
     }
 
+    const onPauseClick = () => {
+        setIsPaused(!isPaused);
+    }
+
+    const onPrevClick = () => {
+        setRound((r) => {
+            playRound(r-2);
+            return r-1;
+        });
+    }
+
+    const onNextClick = () => {
+        setRound((r) => {
+            playRound(r);
+            return r+1;
+        });
+    }
 
   return (
       <div>
@@ -151,7 +177,13 @@ function Match() {
                 )))}
 
             </div>
-          <div className="round-number">{round}</div>
+          <div>
+              <button className="btn btn-outline-dark disabled" >Round: {round}</button>
+              <button className={"btn btn-outline-dark " + (isPaused ? "":"disabled")} onClick={onPrevClick}>Previous</button>
+
+              <button className="btn btn-outline-dark" onClick={onPauseClick}>{isPaused ? "Play": "Pause"}</button>
+              <button className={"btn btn-outline-dark " + (isPaused ? "":"disabled")} onClick={onNextClick}>Next</button>
+          </div>
           {/*<div className="game-message" >{game.message}</div>*/}
       </div>
   )

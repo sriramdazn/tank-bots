@@ -64,7 +64,7 @@
     },
     "diamond": {
       "position": [
-        7,
+        2,
         4
       ],
       "direction": null,
@@ -104,7 +104,7 @@
     },
     "diamond": {
       "position": [
-        7,
+        2,
         4
       ],
       "direction": null,
@@ -144,7 +144,7 @@
     },
     "diamond": {
       "position": [
-        7,
+        2,
         4
       ],
       "direction": null,
@@ -152,11 +152,11 @@
     },
     "bullet": {
       "position": [
-        1,
-        1
+        -1,
+        -1
       ],
       "direction": null,
-      "visible": true
+      "visible": false
     }
   },
   {
@@ -184,7 +184,7 @@
     },
     "diamond": {
       "position": [
-        7,
+        2,
         4
       ],
       "direction": null,
@@ -192,20 +192,20 @@
     },
     "bullet": {
       "position": [
-        1,
-        1
+        -1,
+        -1
       ],
       "direction": null,
-      "visible": true
+      "visible": false
     }
   },
   {
     "playerA": {
       "position": [
-        3,
+        2,
         0
       ],
-      "direction": "right",
+      "direction": "down",
       "diamonds": 0,
       "bullets": 1,
       "shooting": false,
@@ -224,7 +224,7 @@
     },
     "diamond": {
       "position": [
-        7,
+        2,
         4
       ],
       "direction": null,
@@ -232,217 +232,17 @@
     },
     "bullet": {
       "position": [
-        1,
-        1
+        -1,
+        -1
       ],
       "direction": null,
-      "visible": true
+      "visible": false
     }
   },
   {
     "playerA": {
       "position": [
-        4,
-        0
-      ],
-      "direction": "right",
-      "diamonds": 0,
-      "bullets": 1,
-      "shooting": false,
-      "destroyed": false
-    },
-    "playerB": {
-      "position": [
-        3,
-        7
-      ],
-      "direction": "right",
-      "diamonds": 0,
-      "bullets": 1,
-      "shooting": false,
-      "destroyed": false
-    },
-    "diamond": {
-      "position": [
-        7,
-        4
-      ],
-      "direction": null,
-      "visible": true
-    },
-    "bullet": {
-      "position": [
-        1,
-        1
-      ],
-      "direction": null,
-      "visible": true
-    }
-  },
-  {
-    "playerA": {
-      "position": [
-        5,
-        0
-      ],
-      "direction": "right",
-      "diamonds": 0,
-      "bullets": 1,
-      "shooting": false,
-      "destroyed": false
-    },
-    "playerB": {
-      "position": [
-        4,
-        7
-      ],
-      "direction": "right",
-      "diamonds": 0,
-      "bullets": 1,
-      "shooting": false,
-      "destroyed": false
-    },
-    "diamond": {
-      "position": [
-        7,
-        4
-      ],
-      "direction": null,
-      "visible": true
-    },
-    "bullet": {
-      "position": [
-        1,
-        1
-      ],
-      "direction": null,
-      "visible": true
-    }
-  },
-  {
-    "playerA": {
-      "position": [
-        6,
-        0
-      ],
-      "direction": "right",
-      "diamonds": 0,
-      "bullets": 1,
-      "shooting": false,
-      "destroyed": false
-    },
-    "playerB": {
-      "position": [
-        5,
-        7
-      ],
-      "direction": "right",
-      "diamonds": 0,
-      "bullets": 1,
-      "shooting": false,
-      "destroyed": false
-    },
-    "diamond": {
-      "position": [
-        7,
-        4
-      ],
-      "direction": null,
-      "visible": true
-    },
-    "bullet": {
-      "position": [
-        1,
-        1
-      ],
-      "direction": null,
-      "visible": true
-    }
-  },
-  {
-    "playerA": {
-      "position": [
-        7,
-        0
-      ],
-      "direction": "right",
-      "diamonds": 0,
-      "bullets": 1,
-      "shooting": false,
-      "destroyed": false
-    },
-    "playerB": {
-      "position": [
-        6,
-        7
-      ],
-      "direction": "right",
-      "diamonds": 0,
-      "bullets": 1,
-      "shooting": false,
-      "destroyed": false
-    },
-    "diamond": {
-      "position": [
-        7,
-        4
-      ],
-      "direction": null,
-      "visible": true
-    },
-    "bullet": {
-      "position": [
-        1,
-        1
-      ],
-      "direction": null,
-      "visible": true
-    }
-  },
-  {
-    "playerA": {
-      "position": [
-        7,
-        0
-      ],
-      "direction": "down",
-      "diamonds": 0,
-      "bullets": 1,
-      "shooting": false,
-      "destroyed": false
-    },
-    "playerB": {
-      "position": [
-        7,
-        7
-      ],
-      "direction": "right",
-      "diamonds": 0,
-      "bullets": 1,
-      "shooting": false,
-      "destroyed": false
-    },
-    "diamond": {
-      "position": [
-        7,
-        4
-      ],
-      "direction": null,
-      "visible": true
-    },
-    "bullet": {
-      "position": [
-        1,
-        1
-      ],
-      "direction": null,
-      "visible": true
-    }
-  },
-  {
-    "playerA": {
-      "position": [
-        7,
+        2,
         1
       ],
       "direction": "down",
@@ -453,7 +253,47 @@
     },
     "playerB": {
       "position": [
-        7,
+        2,
+        7
+      ],
+      "direction": "left",
+      "diamonds": 0,
+      "bullets": 1,
+      "shooting": false,
+      "destroyed": false
+    },
+    "diamond": {
+      "position": [
+        2,
+        4
+      ],
+      "direction": null,
+      "visible": true
+    },
+    "bullet": {
+      "position": [
+        -1,
+        -1
+      ],
+      "direction": null,
+      "visible": false
+    }
+  },
+  {
+    "playerA": {
+      "position": [
+        2,
+        2
+      ],
+      "direction": "down",
+      "diamonds": 0,
+      "bullets": 1,
+      "shooting": false,
+      "destroyed": false
+    },
+    "playerB": {
+      "position": [
+        2,
         7
       ],
       "direction": "up",
@@ -464,7 +304,7 @@
     },
     "diamond": {
       "position": [
-        7,
+        2,
         4
       ],
       "direction": null,
@@ -472,18 +312,18 @@
     },
     "bullet": {
       "position": [
-        1,
-        1
+        -1,
+        -1
       ],
       "direction": null,
-      "visible": true
+      "visible": false
     }
   },
   {
     "playerA": {
       "position": [
-        7,
-        2
+        2,
+        3
       ],
       "direction": "down",
       "diamonds": 0,
@@ -493,7 +333,7 @@
     },
     "playerB": {
       "position": [
-        7,
+        2,
         7
       ],
       "direction": "up",
@@ -504,7 +344,7 @@
     },
     "diamond": {
       "position": [
-        7,
+        2,
         4
       ],
       "direction": null,
@@ -512,11 +352,11 @@
     },
     "bullet": {
       "position": [
-        1,
-        1
+        -1,
+        -1
       ],
       "direction": null,
-      "visible": true
+      "visible": false
     }
   }
 ]

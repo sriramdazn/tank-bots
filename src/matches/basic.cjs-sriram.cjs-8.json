@@ -272,11 +272,11 @@
     },
     "bullet": {
       "position": [
-        -1,
-        -1
+        0,
+        5
       ],
       "direction": null,
-      "visible": false
+      "visible": true
     }
   },
   {
@@ -312,11 +312,11 @@
     },
     "bullet": {
       "position": [
-        -1,
-        -1
+        0,
+        5
       ],
       "direction": null,
-      "visible": false
+      "visible": true
     }
   },
   {
@@ -352,11 +352,11 @@
     },
     "bullet": {
       "position": [
-        -1,
-        -1
+        0,
+        5
       ],
       "direction": null,
-      "visible": false
+      "visible": true
     }
   },
   {
@@ -392,11 +392,11 @@
     },
     "bullet": {
       "position": [
-        -1,
-        -1
+        0,
+        5
       ],
       "direction": null,
-      "visible": false
+      "visible": true
     }
   },
   {
@@ -432,11 +432,11 @@
     },
     "bullet": {
       "position": [
-        -1,
-        -1
+        0,
+        5
       ],
       "direction": null,
-      "visible": false
+      "visible": true
     }
   },
   {
@@ -472,11 +472,11 @@
     },
     "bullet": {
       "position": [
-        -1,
-        -1
+        0,
+        5
       ],
       "direction": null,
-      "visible": false
+      "visible": true
     }
   },
   {
@@ -512,8 +512,8 @@
     },
     "bullet": {
       "position": [
-        4,
-        3
+        0,
+        5
       ],
       "direction": null,
       "visible": true

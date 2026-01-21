@@ -72,11 +72,11 @@
     },
     "bullet": {
       "position": [
-        -1,
-        -1
+        2,
+        6
       ],
       "direction": null,
-      "visible": false
+      "visible": true
     }
   },
   {
@@ -112,11 +112,11 @@
     },
     "bullet": {
       "position": [
-        -1,
-        -1
+        2,
+        6
       ],
       "direction": null,
-      "visible": false
+      "visible": true
     }
   },
   {
@@ -152,11 +152,11 @@
     },
     "bullet": {
       "position": [
-        -1,
-        -1
+        2,
+        6
       ],
       "direction": null,
-      "visible": false
+      "visible": true
     }
   },
   {
@@ -192,8 +192,8 @@
     },
     "bullet": {
       "position": [
-        4,
-        5
+        2,
+        6
       ],
       "direction": null,
       "visible": true
@@ -232,8 +232,8 @@
     },
     "bullet": {
       "position": [
-        4,
-        5
+        2,
+        6
       ],
       "direction": null,
       "visible": true
@@ -272,8 +272,8 @@
     },
     "bullet": {
       "position": [
-        4,
-        5
+        2,
+        6
       ],
       "direction": null,
       "visible": true
@@ -312,8 +312,8 @@
     },
     "bullet": {
       "position": [
-        4,
-        5
+        2,
+        6
       ],
       "direction": null,
       "visible": true
@@ -352,8 +352,8 @@
     },
     "bullet": {
       "position": [
-        4,
-        5
+        2,
+        6
       ],
       "direction": null,
       "visible": true

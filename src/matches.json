@@ -44,7 +44,7 @@
   {
     "A": "basic.cjs",
     "B": "mybot.cjs",
-    "winner": "N/A",
+    "winner": "B",
     "name": "basic.cjs-mybot.cjs-7"
   },
   {
@@ -86,7 +86,7 @@
   {
     "A": "basic.cjs",
     "B": "mybot.cjs",
-    "winner": "N/A",
+    "winner": "B",
     "name": "basic.cjs-mybot.cjs-14"
   },
   {
@@ -110,7 +110,7 @@
   {
     "A": "basic.cjs",
     "B": "mybot.cjs",
-    "winner": "B",
+    "winner": "N/A",
     "name": "basic.cjs-mybot.cjs-18"
   },
   {
@@ -260,7 +260,7 @@
   {
     "A": "basic.cjs",
     "B": "mybot.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "basic.cjs-mybot.cjs-43"
   },
   {
@@ -301,8 +301,308 @@
   },
   {
     "A": "basic.cjs",
-    "B": "random.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-0"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-1"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-2"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-3"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-4"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
     "winner": "A",
+    "name": "basic.cjs-naveen-bot.cjs-5"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "basic.cjs-naveen-bot.cjs-6"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-7"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-8"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-9"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-10"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-11"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-12"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-13"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-14"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-15"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-16"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-17"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-18"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-19"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "basic.cjs-naveen-bot.cjs-20"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-21"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-22"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-23"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-24"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-25"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-26"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "basic.cjs-naveen-bot.cjs-27"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-28"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-29"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "basic.cjs-naveen-bot.cjs-30"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-31"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-32"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-33"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-34"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "basic.cjs-naveen-bot.cjs-35"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-36"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "basic.cjs-naveen-bot.cjs-37"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-38"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-39"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-40"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-41"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-42"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "basic.cjs-naveen-bot.cjs-43"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "basic.cjs-naveen-bot.cjs-44"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-45"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-46"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-47"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-48"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "B",
+    "name": "basic.cjs-naveen-bot.cjs-49"
+  },
+  {
+    "A": "basic.cjs",
+    "B": "random.cjs",
+    "winner": "B",
     "name": "basic.cjs-random.cjs-0"
   },
   {
@@ -362,7 +662,7 @@
   {
     "A": "basic.cjs",
     "B": "random.cjs",
-    "winner": "A",
+    "winner": "B",
     "name": "basic.cjs-random.cjs-10"
   },
   {
@@ -374,13 +674,13 @@
   {
     "A": "basic.cjs",
     "B": "random.cjs",
-    "winner": "A",
+    "winner": "B",
     "name": "basic.cjs-random.cjs-12"
   },
   {
     "A": "basic.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "basic.cjs-random.cjs-13"
   },
   {
@@ -404,7 +704,7 @@
   {
     "A": "basic.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "basic.cjs-random.cjs-17"
   },
   {
@@ -422,7 +722,7 @@
   {
     "A": "basic.cjs",
     "B": "random.cjs",
-    "winner": "A",
+    "winner": "B",
     "name": "basic.cjs-random.cjs-20"
   },
   {
@@ -434,7 +734,7 @@
   {
     "A": "basic.cjs",
     "B": "random.cjs",
-    "winner": "A",
+    "winner": "B",
     "name": "basic.cjs-random.cjs-22"
   },
   {
@@ -446,13 +746,13 @@
   {
     "A": "basic.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "basic.cjs-random.cjs-24"
   },
   {
     "A": "basic.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "basic.cjs-random.cjs-25"
   },
   {
@@ -494,19 +794,19 @@
   {
     "A": "basic.cjs",
     "B": "random.cjs",
-    "winner": "A",
+    "winner": "B",
     "name": "basic.cjs-random.cjs-32"
   },
   {
     "A": "basic.cjs",
     "B": "random.cjs",
-    "winner": "A",
+    "winner": "B",
     "name": "basic.cjs-random.cjs-33"
   },
   {
     "A": "basic.cjs",
     "B": "random.cjs",
-    "winner": "A",
+    "winner": "B",
     "name": "basic.cjs-random.cjs-34"
   },
   {
@@ -530,13 +830,13 @@
   {
     "A": "basic.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "basic.cjs-random.cjs-38"
   },
   {
     "A": "basic.cjs",
     "B": "random.cjs",
-    "winner": "A",
+    "winner": "B",
     "name": "basic.cjs-random.cjs-39"
   },
   {
@@ -572,25 +872,25 @@
   {
     "A": "basic.cjs",
     "B": "random.cjs",
-    "winner": "A",
+    "winner": "B",
     "name": "basic.cjs-random.cjs-45"
   },
   {
     "A": "basic.cjs",
     "B": "random.cjs",
-    "winner": "A",
+    "winner": "B",
     "name": "basic.cjs-random.cjs-46"
   },
   {
     "A": "basic.cjs",
     "B": "random.cjs",
-    "winner": "A",
+    "winner": "B",
     "name": "basic.cjs-random.cjs-47"
   },
   {
     "A": "basic.cjs",
     "B": "random.cjs",
-    "winner": "A",
+    "winner": "B",
     "name": "basic.cjs-random.cjs-48"
   },
   {
@@ -901,14 +1201,314 @@
   },
   {
     "A": "mybot.cjs",
-    "B": "random.cjs",
+    "B": "naveen-bot.cjs",
     "winner": "A",
-    "name": "mybot.cjs-random.cjs-0"
+    "name": "mybot.cjs-naveen-bot.cjs-0"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-1"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-2"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-3"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-4"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-5"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-6"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-7"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-8"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-9"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-10"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-11"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-12"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-13"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "N/A",
+    "name": "mybot.cjs-naveen-bot.cjs-14"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-15"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-16"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-17"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-18"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-19"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-20"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-21"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-22"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-23"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-24"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-25"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-26"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-27"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-28"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-29"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-30"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-31"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-32"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-33"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-34"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-35"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-36"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-37"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-38"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-39"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-40"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-41"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-42"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-43"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-44"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "N/A",
+    "name": "mybot.cjs-naveen-bot.cjs-45"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-46"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-47"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-48"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "naveen-bot.cjs",
+    "winner": "A",
+    "name": "mybot.cjs-naveen-bot.cjs-49"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
     "winner": "B",
+    "name": "mybot.cjs-random.cjs-0"
+  },
+  {
+    "A": "mybot.cjs",
+    "B": "random.cjs",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-1"
   },
   {
@@ -920,7 +1520,7 @@
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-3"
   },
   {
@@ -938,19 +1538,19 @@
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-6"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-7"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-8"
   },
   {
@@ -962,13 +1562,13 @@
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-10"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-11"
   },
   {
@@ -992,19 +1592,19 @@
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-15"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-16"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-17"
   },
   {
@@ -1016,31 +1616,31 @@
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-19"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-20"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-21"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-22"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-23"
   },
   {
@@ -1058,19 +1658,19 @@
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-26"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-27"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-28"
   },
   {
@@ -1082,25 +1682,25 @@
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "N/A",
+    "winner": "B",
     "name": "mybot.cjs-random.cjs-30"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-31"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-32"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-33"
   },
   {
@@ -1112,13 +1712,13 @@
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-35"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "N/A",
+    "winner": "B",
     "name": "mybot.cjs-random.cjs-36"
   },
   {
@@ -1130,25 +1730,25 @@
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-38"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-39"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-40"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-41"
   },
   {
@@ -1166,13 +1766,13 @@
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-44"
   },
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-45"
   },
   {
@@ -1196,19 +1796,19 @@
   {
     "A": "mybot.cjs",
     "B": "random.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-random.cjs-49"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-0"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-1"
   },
   {
@@ -1220,163 +1820,163 @@
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-3"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-4"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-5"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-6"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-7"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-8"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-9"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-10"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "B",
     "name": "mybot.cjs-sriram.cjs-11"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "B",
     "name": "mybot.cjs-sriram.cjs-12"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-13"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "B",
     "name": "mybot.cjs-sriram.cjs-14"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-15"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-16"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-17"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "B",
     "name": "mybot.cjs-sriram.cjs-18"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-19"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "B",
     "name": "mybot.cjs-sriram.cjs-20"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "B",
     "name": "mybot.cjs-sriram.cjs-21"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-22"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "B",
     "name": "mybot.cjs-sriram.cjs-23"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-24"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-25"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-26"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-27"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-28"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-29"
   },
   {
@@ -1388,55 +1988,55 @@
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-31"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "B",
     "name": "mybot.cjs-sriram.cjs-32"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-33"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-34"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-35"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-36"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-37"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-38"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-39"
   },
   {
@@ -1454,50 +2054,650 @@
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-42"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-43"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-44"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-45"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-46"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "A",
+    "winner": "B",
     "name": "mybot.cjs-sriram.cjs-47"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "mybot.cjs-sriram.cjs-48"
   },
   {
     "A": "mybot.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "B",
     "name": "mybot.cjs-sriram.cjs-49"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-0"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-1"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-2"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-3"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "B",
+    "name": "naveen-bot.cjs-random.cjs-4"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-5"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-6"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "B",
+    "name": "naveen-bot.cjs-random.cjs-7"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-8"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-9"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-10"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-11"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-12"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-13"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-14"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-15"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "B",
+    "name": "naveen-bot.cjs-random.cjs-16"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-17"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "B",
+    "name": "naveen-bot.cjs-random.cjs-18"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-19"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-20"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-21"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-22"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-23"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-24"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-25"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "B",
+    "name": "naveen-bot.cjs-random.cjs-26"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-27"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-28"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-29"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "B",
+    "name": "naveen-bot.cjs-random.cjs-30"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-31"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-32"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-33"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-34"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-35"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-36"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-37"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-random.cjs-38"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-39"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-40"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-41"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-42"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-43"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-44"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-45"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "B",
+    "name": "naveen-bot.cjs-random.cjs-46"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-47"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "B",
+    "name": "naveen-bot.cjs-random.cjs-48"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "random.cjs",
+    "winner": "N/A",
+    "name": "naveen-bot.cjs-random.cjs-49"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-0"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-1"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-2"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-3"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-4"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-5"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-6"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-7"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-8"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-9"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-10"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-11"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-12"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-13"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-14"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-15"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-16"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-17"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-18"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-19"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-20"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-21"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-22"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-23"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-24"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-25"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-26"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-27"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-28"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-29"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-30"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-31"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-32"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-33"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-34"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-35"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-36"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-37"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-38"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-39"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-40"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-41"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-42"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-43"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-44"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-45"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-46"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-47"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-48"
+  },
+  {
+    "A": "naveen-bot.cjs",
+    "B": "sriram.cjs",
+    "winner": "A",
+    "name": "naveen-bot.cjs-sriram.cjs-49"
   },
   {
     "A": "random.cjs",
@@ -1520,7 +2720,7 @@
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "A",
+    "winner": "B",
     "name": "random.cjs-sriram.cjs-3"
   },
   {
@@ -1532,7 +2732,7 @@
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "A",
+    "winner": "B",
     "name": "random.cjs-sriram.cjs-5"
   },
   {
@@ -1556,13 +2756,13 @@
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "B",
     "name": "random.cjs-sriram.cjs-9"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "random.cjs-sriram.cjs-10"
   },
   {
@@ -1586,13 +2786,13 @@
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "random.cjs-sriram.cjs-14"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "random.cjs-sriram.cjs-15"
   },
   {
@@ -1610,19 +2810,19 @@
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "random.cjs-sriram.cjs-18"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "random.cjs-sriram.cjs-19"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "A",
+    "winner": "B",
     "name": "random.cjs-sriram.cjs-20"
   },
   {
@@ -1634,25 +2834,25 @@
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "A",
+    "winner": "N/A",
     "name": "random.cjs-sriram.cjs-22"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "B",
     "name": "random.cjs-sriram.cjs-23"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "random.cjs-sriram.cjs-24"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "A",
+    "winner": "B",
     "name": "random.cjs-sriram.cjs-25"
   },
   {
@@ -1670,19 +2870,19 @@
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "A",
+    "winner": "N/A",
     "name": "random.cjs-sriram.cjs-28"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "random.cjs-sriram.cjs-29"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "B",
+    "winner": "N/A",
     "name": "random.cjs-sriram.cjs-30"
   },
   {
@@ -1706,7 +2906,7 @@
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "random.cjs-sriram.cjs-34"
   },
   {
@@ -1718,37 +2918,37 @@
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "random.cjs-sriram.cjs-36"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "A",
+    "winner": "B",
     "name": "random.cjs-sriram.cjs-37"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "B",
     "name": "random.cjs-sriram.cjs-38"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "B",
     "name": "random.cjs-sriram.cjs-39"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "B",
+    "winner": "A",
     "name": "random.cjs-sriram.cjs-40"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "B",
+    "winner": "N/A",
     "name": "random.cjs-sriram.cjs-41"
   },
   {
@@ -1760,37 +2960,37 @@
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "random.cjs-sriram.cjs-43"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "A",
+    "winner": "N/A",
     "name": "random.cjs-sriram.cjs-44"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "random.cjs-sriram.cjs-45"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "B",
     "name": "random.cjs-sriram.cjs-46"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "random.cjs-sriram.cjs-47"
   },
   {
     "A": "random.cjs",
     "B": "sriram.cjs",
-    "winner": "N/A",
+    "winner": "A",
     "name": "random.cjs-sriram.cjs-48"
   },
   {

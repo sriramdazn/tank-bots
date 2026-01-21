@@ -1,22 +1,27 @@
 [
   {
-    "wins": 45,
-    "elo": 988,
+    "wins": 47,
+    "elo": 912,
     "name": "basic.cjs"
   },
   {
-    "wins": 71,
-    "elo": 1346,
+    "wins": 182,
+    "elo": 1590,
     "name": "mybot.cjs"
   },
   {
-    "wins": 45,
-    "elo": 1219,
+    "wins": 92,
+    "elo": 1434,
+    "name": "naveen-bot.cjs"
+  },
+  {
+    "wins": 49,
+    "elo": 1064,
     "name": "random.cjs"
   },
   {
-    "wins": 69,
-    "elo": 1247,
+    "wins": 78,
+    "elo": 1000,
     "name": "sriram.cjs"
   }
 ]
